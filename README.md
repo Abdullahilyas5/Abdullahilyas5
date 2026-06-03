@@ -1,69 +1,79 @@
-<!-- ================= NEW HERO ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-modern-dev-banner.gif" alt="Modern Dev Banner" />
-</p>
-
-<h1 align="center">Abdullah Ilyas</h1>
-
-<p align="center">
-  <b>Full Stack MERN Developer • SEO Engineer • Analytics Specialist</b>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Abdullah+Ilyas;Full+Stack+MERN+Developer;SEO+%26+Analytics+Engineer;Building+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=650&height=60&duration=3500&lines=I+build+scalable+web+apps;I+optimize+SEO+%26+performance;I+track+data+that+drives+growth;I+turn+ideas+into+real+products" />
+  <b>Full Stack Developer • SEO Engineer • GA4 & GTM Specialist</b>
 </p>
 
 ---
 
-## 🧭 About Me
+## 🧠 About Me
 
-I’m a **Full Stack Developer** focused on building **modern, scalable, and performance-driven applications**.
+I am a **Full Stack MERN Developer** who focuses on building **fast, scalable, and production-ready applications**.
 
-I don’t just write code — I build systems that:
-- ⚡ Load fast
-- 📈 Rank better (SEO)
-- 📊 Track everything (GA4 + GTM)
-- 💡 Convert users into customers
+My work goes beyond coding — I build systems that are:
+- ⚡ Fast & optimized
+- 📊 Data-driven
+- 🔍 SEO-friendly
+- 📈 Conversion-focused
+
+I also work with:
+- Google Analytics 4 (GA4)
+- Google Tag Manager (GTM)
+- SEO optimization & tracking systems
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Frontend**
-- React • JavaScript • TypeScript  
-- Tailwind CSS • UI Architecture  
+- React, JavaScript, TypeScript
+- Tailwind CSS, UI Systems
 
 **Backend**
-- Node.js • Express.js  
-- MongoDB • REST APIs • Authentication  
+- Node.js, Express.js
+- MongoDB, REST APIs, Authentication
 
 **Analytics & Growth**
-- Google Analytics 4 (GA4)  
-- Google Tag Manager (GTM)  
-- SEO Optimization • Event Tracking • Funnels  
+- Google Analytics 4
+- Google Tag Manager
+- SEO Optimization
+- Event Tracking & Funnels
 
 **Tools**
-- Git • GitHub • Postman • Docker • Figma  
+- Git, GitHub, Docker, Postman, Figma
 
 ---
 
 ## 🚀 What I Build
 
 ✔ SaaS Applications  
-✔ E-commerce Platforms  
-✔ SEO Optimized Landing Pages  
+✔ Full Stack MERN Apps  
+✔ E-commerce Systems  
+✔ SEO Optimized Websites  
 ✔ Analytics Dashboards  
-✔ API-Based Backend Systems  
-✔ Conversion Tracking Setups  
+✔ Conversion Tracking Systems (GA4 + GTM)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahilyas5&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahilyas5&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahilyas5&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahilyas5&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 📈 Developer Mindset
+
+✔ Clean architecture  
+✔ Performance-first development  
+✔ SEO-first approach  
+✔ Scalable backend design  
+✔ Data-driven decision making  
 
 ---
 
@@ -71,10 +81,10 @@ I don’t just write code — I build systems that:
 
 <p align="center">
   <a href="mailto:abdullahilyassaeed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/abdullah-ilyas-452a63310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
