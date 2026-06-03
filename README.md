@@ -1,84 +1,79 @@
-<img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
-
-<hr/>
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" alt="Coding Banner"/>
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Ilyas!;Mern+Stack+Developer+💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Abdullah+Ilyas;MERN+Stack+Developer+💻;SEO+%26+Analytics+Enthusiast+📊" />
 </h1>
 
-<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I'm Abdullah ilyas, a passionate MERN stack developer and coding enthusiast from Pakistan!</h2>
+<h3 align="center">🚀 Building fast, scalable & data-driven web applications 🚀</h3>
 
-<br/>
+---
 
-<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+## 👨‍💻 About Me
 
-<img align="right" width="250" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
+<img align="right" width="260" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
 
-<p align="left"> 
-🚀 Enthusiastic MERN Stack Developer focused on building fast, reliable, and user-friendly web applications.
+- ⚡ MERN Stack Developer focused on **performance + scalability**
+- 📊 Experienced in **Google Analytics (GA4) & Google Tag Manager (GTM)**
+- 🎯 Strong focus on **SEO optimization & conversion tracking**
+- 💡 Love building clean UI + intelligent backend systems
+- 🚀 Always learning modern web technologies & dev tools
+- 🎮 Problem solver who enjoys turning ideas into real products
+
+📫 **Email:** `abdullahilyassaeed@gmail.com`  
+🔗 **LinkedIn:** [Connect Here](https://www.linkedin.com/in/abdullah-ilyas-452a63310/)
+
+---
+
+## 🧠 Tech Stack
+
+### ⚛️ Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite" />
 </p>
-<p align="left"> 
-💡 Passionate about tech with a flair for blending creativity and functionality in code.
-</p>
-<p align="left"> 
-🧩 Loves tackling complex problems and crafting clean, efficient solutions.
-</p>
-<p align="left"> 
-⚙️ Continuously learning and evolving with the latest technologies and development trends.
-</p>
-<p align="left"> 
-🎮 A curious mind who enjoys coding, experimenting, and turning ideas into digital reality.
+
+### 🧩 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-📫 Contact Me At **abdullahilyassaeed@gmail.com**
+### ⚙️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+</p>
 
-<h5>
-  🔗 Know more About me on <a href="https://www.linkedin.com/in/abdullah-ilyas-452a63310/" target="_blank">LinkedIn</a>
-</h5>
+### 📊 Analytics & SEO
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics-4-orange?style=for-the-badge&logo=googleanalytics" />
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-Blue?style=for-the-badge&logo=googletagmanager" />
+  <img src="https://img.shields.io/badge/SEO-Expert-green?style=for-the-badge&logo=google" />
+</p>
 
+---
 
-<hr/>
- 
-<h2 align="center">📚 My Stack 📚</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</div>
+## 🚀 What I Do Best
 
-<h2 align="center">🎨 Frontend 🎨</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui"/>
-    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
-</div>
+- 🔥 Full Stack MERN Development
+- ⚡ API Design & Backend Architecture
+- 📈 SEO Optimization for Web Apps
+- 📊 GA4 Event Tracking & Funnel Setup
+- 🧠 GTM Tag & Trigger Configuration
+- 🎯 Conversion Tracking & Performance Analytics
 
-<h2 align="center">⚙️ Backend ⚙️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
-</div>
+---
 
-<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
-</div>
-<br/>
+## 📊 GitHub Stats
 
-<br/>
-<hr/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&border_radius=10" />
+</p>
 
+---
 
-<hr/>
+## 💬 Let’s Connect
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=zohaibxJackie&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br>
-<hr/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+my+world!+💖;Let's+Connect!+🚀;" />
-</h1>
-<!-- HELLO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=28&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Thanks+for+visiting!;Let’s+build+something+amazing+🚀" />
+</p>
