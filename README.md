@@ -1,88 +1,85 @@
-<!-- ================= HERO ================= -->
+<!-- ================= NEW HERO ================= -->
 <p align="center">
-  <img src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
+  <img src="https://user-images.githubusercontent.com/placeholder-modern-dev-banner.gif" alt="Modern Dev Banner" />
 </p>
 
-<h1 align="center">
-  Abdullah Ilyas
-</h1>
+<h1 align="center">Abdullah Ilyas</h1>
 
 <p align="center">
-  <b>MERN Stack Developer • SEO Engineer • Analytics Specialist</b>
+  <b>Full Stack MERN Developer • SEO Engineer • Analytics Specialist</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Building+scalable+web+apps;Optimizing+SEO+%26+performance;Tracking+data+that+matters;Turning+ideas+into+products" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=650&height=60&duration=3500&lines=I+build+scalable+web+apps;I+optimize+SEO+%26+performance;I+track+data+that+drives+growth;I+turn+ideas+into+real+products" />
 </p>
 
 ---
 
-## 🧠 Overview
+## 🧭 About Me
 
-I build **fast, scalable, and data-driven web applications** using the MERN stack.  
-My focus is not just code — but **performance, SEO, and measurable growth**.
+I’m a **Full Stack Developer** focused on building **modern, scalable, and performance-driven applications**.
 
-I also work with:
-- 📊 Google Analytics 4 (GA4)
-- 🏷️ Google Tag Manager (GTM)
-- 📈 SEO strategy + conversion tracking
+I don’t just write code — I build systems that:
+- ⚡ Load fast
+- 📈 Rank better (SEO)
+- 📊 Track everything (GA4 + GTM)
+- 💡 Convert users into customers
 
 ---
 
-## ⚙️ Core Skills
+## ⚙️ Tech Stack
 
 **Frontend**
-- React, JavaScript, TypeScript
-- Tailwind CSS, UI Systems
+- React • JavaScript • TypeScript  
+- Tailwind CSS • UI Architecture  
 
 **Backend**
-- Node.js, Express.js
-- MongoDB, REST APIs, Auth systems
+- Node.js • Express.js  
+- MongoDB • REST APIs • Authentication  
 
-**Growth & Analytics**
-- Google Analytics 4
-- Google Tag Manager
-- SEO Optimization
-- Event Tracking & Funnels
+**Analytics & Growth**
+- Google Analytics 4 (GA4)  
+- Google Tag Manager (GTM)  
+- SEO Optimization • Event Tracking • Funnels  
 
 **Tools**
-- Git, GitHub, Docker, Postman, Figma
+- Git • GitHub • Postman • Docker • Figma  
 
 ---
 
-## 🚀 What I Focus On
+## 🚀 What I Build
 
-- High-performance full-stack applications  
-- SEO-first architecture  
-- Analytics-driven development  
-- Clean backend systems & APIs  
-- Conversion tracking with GA4 & GTM  
-- Scalable UI/UX systems  
+✔ SaaS Applications  
+✔ E-commerce Platforms  
+✔ SEO Optimized Landing Pages  
+✔ Analytics Dashboards  
+✔ API-Based Backend Systems  
+✔ Conversion Tracking Setups  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📡 Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:abdullahilyassaeed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/abdullah-ilyas-452a63310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>“Build fast. Track everything. Improve constantly.”</b>
+  <b>Build. Optimize. Scale.</b>
 </p>
