@@ -34,7 +34,7 @@ I'm a **Full Stack MERN Developer** who builds fast, production-ready web applic
 role: Full Stack MERN Developer
 focus: [React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Supabase]
 specialty: SEO · Core Web Vitals · Performance-first architecture
-education: BS Computer Science — Punjab University (Final Year)
+education: BS Computer Science — Punjab University 
 experience: Alpha Hive AI · Uptech Sol
 workflow: AI-native — Claude, Cursor, GitHub Copilot, OpenAI Codex, Lovable
 status: Actively looking for Full Stack / MERN / Next.js / TypeScript roles
