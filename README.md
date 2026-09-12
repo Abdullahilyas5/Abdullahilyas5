@@ -90,17 +90,73 @@ I'm a **Full Stack MERN Developer** who builds fast, production-ready web applic
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+<!-- ================= PROJECTS ================= -->
+## 🧩 Featured Projects
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullahilyas5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahilyas5&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahilyas5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+**GreenCart Market** — SaaS Storefront
+<br/>
+<img src="greencart-market.png" width="100%"/>
+<br/>
+Modern supermarket landing page — hero, department navigation, and store-onboarding flow.
+<br/>
+<a href="https://supermarketerp.vercel.app/">Live Demo</a>
+
+</td>
+<td width="50%">
+
+**GreenCart ERP** — Admin Dashboard
+<br/>
+<img src="greencart-erp.png" width="100%"/>
+<br/>
+Store operations dashboard — sales, inventory valuation, POS terminal, and stock audit tools.
+<br/>
+<a href="https://supermarketerp.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Buildeezy** — Auth & Onboarding
+<br/>
+<img src="buildeezy-login.png" width="100%"/>
+<br/>
+Multi-provider sign-in flow (WhatsApp, Google, Facebook, Email) for a construction/marketplace platform.
+<br/>
+<a href="https://app.buildeezy.com/">Live Demo</a>
+
+</td>
+<td width="50%">
+
+**Oyster Deals Explorer** — Discovery App
+<br/>
+<img src="oyster-deals-app.png" width="100%"/>
+<br/>
+Local deals discovery app with reviews, ratings, and real-time happy-hour listings.
+<br/>
+<a href="https://oyster-web.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Track My Trades AI** — Crypto Analytics Platform
+<br/>
+<img src="trackmytrades-ai.png" width="100%"/>
+<br/>
+AI-powered trading dashboard — trade analytics, time-of-day heatmaps, emotional breakdown, and performance insights.
+<br/>
+<a href="https://trackmytrades.ai/">Live Demo</a>
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 <br/>
 
