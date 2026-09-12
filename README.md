@@ -153,7 +153,7 @@ status: Actively looking for Full Stack / MERN / Next.js / TypeScript roles
 <td width="50%" valign="top">
 
 <h3 align="center">🛒 Supermarket ERP</h3>
-<img src="greencart-market.png" width="100%"/>
+<img src="greencart-erp.png" width="100%"/>
 <p align="center"><i>Full-stack supermarket platform — customer storefront plus an operations dashboard for sales, inventory & POS.</i></p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
