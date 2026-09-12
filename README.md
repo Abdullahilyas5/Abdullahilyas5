@@ -1,86 +1,114 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Abdullah+Ilyas;Full+Stack+MERN+Developer;SEO+%26+Analytics+Engineer;Building+Scalable+Web+Apps" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer • SEO Engineer • GA4 & GTM Specialist</b>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=60&duration=3000&lines=Hi%2C+I'm+Abdullah+Ilyas;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+TypeScript" alt="Typing SVG" />
 
----
+<br/>
 
-## 🧠 About Me
+<img src="https://img.shields.io/badge/MERN-STACK-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Full%20Stack%20Roles-brightgreen?style=for-the-badge&logo=vercel" />
 
-I am a **Full Stack MERN Developer** who focuses on building **fast, scalable, and production-ready applications**.
+</div>
 
-My work goes beyond coding — I build systems that are:
-- ⚡ Fast & optimized
-- 📊 Data-driven
-- 🔍 SEO-friendly
-- 📈 Conversion-focused
+<br/>
 
-I also work with:
-- Google Analytics 4 (GA4)
-- Google Tag Manager (GTM)
-- SEO optimization & tracking systems
+<!-- ================= ABOUT ================= -->
+## 👋 About Me
 
----
+I'm a **Full Stack MERN Developer** who builds fast, production-ready web applications end-to-end — from database schema to deployed UI.
 
-## ⚙️ Tech Stack
+- 🔭 Building with **React, Next.js, Node.js, Express & MongoDB/PostgreSQL**
+- 🎓 Final-year **BS Computer Science** student at Punjab University
+- 💼 Hands-on experience shipping real products at **Alpha Hive AI** and **Uptech Sol**
+- 🌱 Currently deepening expertise in **Next.js, TypeScript & scalable backend architecture**
+- 🎯 Actively looking for **Full Stack / MERN / React / Next.js** roles
+- ⚡ Fun fact: I care as much about clean architecture as I do about clean UI
+
+<br/>
+
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
-- React, JavaScript, TypeScript
-- Tailwind CSS, UI Systems
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css" />
+
+</td>
+<td valign="top" width="50%">
 
 **Backend**
-- Node.js, Express.js
-- MongoDB, REST APIs, Authentication
 
-**Analytics & Growth**
-- Google Analytics 4
-- Google Tag Manager
-- SEO Optimization
-- Event Tracking & Funnels
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
 
-**Tools**
-- Git, GitHub, Docker, Postman, Figma
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
----
+**Tools & DevOps**
 
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel" />
+
+</td>
+<td valign="top" width="50%">
+
+**Growth & Analytics**
+
+<img src="https://skillicons.dev/icons?i=googlecloud" /> GA4 · GTM · SEO · Event Tracking
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= WHAT I BUILD ================= -->
 ## 🚀 What I Build
 
-✔ SaaS Applications  
-✔ Full Stack MERN Apps  
-✔ E-commerce Systems  
-✔ SEO Optimized Websites  
-✔ Analytics Dashboards  
-✔ Conversion Tracking Systems (GA4 + GTM)
+| Category | Focus |
+|---|---|
+| 🖥️ **Full Stack Apps** | MERN-based SaaS and web platforms, built API-first |
+| 🛒 **E-Commerce Systems** | Cart, checkout, and payment-integrated storefronts |
+| 📊 **Analytics Dashboards** | Real-time data visualization with tracking pipelines |
+| 🔍 **SEO-Optimized Sites** | Server-rendered, performance-tuned, crawlable by design |
+| 📈 **Conversion Tracking** | GA4 + GTM funnels wired into product decisions |
 
----
+<br/>
 
-## 📈 Developer Mindset
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
 
-✔ Clean architecture  
-✔ Performance-first development  
-✔ SEO-first approach  
-✔ Scalable backend design  
-✔ Data-driven decision making  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-## 🤝 Connect With Me
+> 💡 Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
 
-<p align="center">
-  <a href="mailto:abdullahilyassaeed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdullah-ilyas-452a63310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<br/>
 
----
+<!-- ================= CONNECT ================= -->
+## 🤝 Let's Connect
 
-<p align="center">
-  <b>Build. Optimize. Scale.</b>
-</p>
+<div align="center">
+
+<a href="mailto:abdullahilyassaeed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abdullah-ilyas-452a63310/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<b>Build. Optimize. Scale.</b>
+
+</div>
