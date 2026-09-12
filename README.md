@@ -15,13 +15,14 @@
 <!-- ================= ABOUT ================= -->
 ## 👋 About Me
 
-I'm a **Full Stack MERN Developer** who builds fast, production-ready web applications end-to-end — from database schema to deployed UI.
+I'm a **Full Stack MERN Developer** who builds fast, production-ready web applications end-to-end — from database schema to deployed, SEO-optimized UI.
 
-- 🔭 Building with **React, Next.js, Node.js, Express & MongoDB/PostgreSQL**
+- 🔭 Building with **React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL & Supabase**
+- 🔍 Strong focus on **SEO, Core Web Vitals & performance-first architecture**
 - 🎓 Final-year **BS Computer Science** student at Punjab University
 - 💼 Hands-on experience shipping real products at **Alpha Hive AI** and **Uptech Sol**
-- 🌱 Currently deepening expertise in **Next.js, TypeScript & scalable backend architecture**
-- 🎯 Actively looking for **Full Stack / MERN / React / Next.js** roles
+- 🤖 Comfortable working AI-native — **Claude, Cursor, GitHub Copilot, OpenAI Codex & Lovable** are part of my daily workflow
+- 🎯 Actively looking for **Full Stack / MERN / Next.js / TypeScript** roles
 - ⚡ Fun fact: I care as much about clean architecture as I do about clean UI
 
 <br/>
@@ -40,9 +41,9 @@ I'm a **Full Stack MERN Developer** who builds fast, production-ready web applic
 </td>
 <td valign="top" width="50%">
 
-**Backend**
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,redis" />
 
 </td>
 </tr>
@@ -66,6 +67,16 @@ I'm a **Full Stack MERN Developer** who builds fast, production-ready web applic
 
 <br/>
 
+**AI-Assisted Development**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-FF66C4?style=for-the-badge&logoColor=white"/>
+
+<br/>
+
 <!-- ================= WHAT I BUILD ================= -->
 ## 🚀 What I Build
 
@@ -83,15 +94,13 @@ I'm a **Full Stack MERN Developer** who builds fast, production-ready web applic
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullahilyas5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahilyas5&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahilyas5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-
-> 💡 Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
 
 <br/>
 
@@ -103,7 +112,7 @@ I'm a **Full Stack MERN Developer** who builds fast, production-ready web applic
 <a href="mailto:abdullahilyassaeed@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/abdullah-ilyas-452a63310/">
+<a href="https://www.linkedin.com/in/abdullah-ilyas-full-stack-developer/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
